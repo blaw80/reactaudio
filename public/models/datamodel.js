@@ -1,1 +1,1 @@
-module.exports = "a bunch of data";
+export default "a bunch of data";

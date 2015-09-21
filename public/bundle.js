@@ -20854,7 +20854,7 @@
 	module.exports = React.render(React.createElement(
 	  'h1',
 	  null,
-	  'Hello, wooooooooooorld!'
+	  'Hello, world!'
 	), document.getElementById('content'));
 
 /***/ }
